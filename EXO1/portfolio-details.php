@@ -1,4 +1,4 @@
-
+<?php require('includes/header.php');?>
 <!-- Start Portfolio Details Area -->
 <section class="pf-details section">
 	<div class="container">

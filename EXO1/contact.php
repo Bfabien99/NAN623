@@ -1,4 +1,4 @@
-		
+<?php require('includes/header.php');?>		
 <!-- Start Contact Us -->
 <section class="contact-us section">
 	<div class="container">

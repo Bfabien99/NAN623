@@ -1,4 +1,4 @@
-
+<?php require('includes/header.php');?>
 <!-- Slider Area -->
 <section class="slider">
 	<div class="hero-slider">

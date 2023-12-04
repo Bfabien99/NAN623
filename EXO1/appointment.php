@@ -1,4 +1,4 @@
-		
+<?php require('includes/header.php');?>	
 <!-- Single News -->
 <section class="news-single section">
 	<div class="container">

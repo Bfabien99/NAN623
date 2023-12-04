@@ -1,4 +1,4 @@
-
+<?php require('includes/header.php');?>
 <!-- Error Page -->
 <section class="error-page section">
 	<div class="container">
