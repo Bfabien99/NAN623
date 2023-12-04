@@ -75,8 +75,8 @@
 						<!-- Contact -->
 						<ul class="top-link">
 							<li><a href="#">About</a></li>
-							<li><a href="doctors.php">Doctors</a></li>
-							<li><a href="contact.php">Contact</a></li>
+							<li><a href="doctors">Doctors</a></li>
+							<li><a href="contact-us">Contact</a></li>
 							<li><a href="#">FAQ</a></li>
 						</ul>
 						<!-- End Contact -->
@@ -102,7 +102,7 @@
 						<div class="col-lg-3 col-md-3 col-12">
 							<!-- Start Logo -->
 							<div class="logo">
-								<a href="index.php"><img src="img/logo.png" alt="#"></a>
+								<a href="/"><img src="img/logo.png" alt="#"></a>
 							</div>
 							<!-- End Logo -->
 							<!-- Mobile Nav -->
@@ -116,22 +116,22 @@
 									<ul class="nav menu">
 										<li class="active"><a href="#">Home <i class="icofont-rounded-down"></i></a>
 											<ul class="dropdown">
-												<li><a href="index.php">Home Page 1</a></li>
+												<li><a href="/">Home Page 1</a></li>
 											</ul>
 										</li>
-										<li><a href="doctors.php">Doctors </a></li>
-										<li><a href="services.php">Services </a></li>
+										<li><a href="doctors">Doctors </a></li>
+										<li><a href="services">Services </a></li>
 										<li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
 											<ul class="dropdown">
-												<li><a href="404.php">404 Error</a></li>
+												<li><a href="404">404 Error</a></li>
 											</ul>
 										</li>
 										<li><a href="#">Blogs <i class="icofont-rounded-down"></i></a>
 											<ul class="dropdown">
-												<li><a href="blog-single.php">Blog Details</a></li>
+												<li><a href="blog-single">Blog Details</a></li>
 											</ul>
 										</li>
-										<li><a href="contact.php">Contact Us</a></li>
+										<li><a href="contact-us">Contact Us</a></li>
 									</ul>
 								</nav>
 							</div>
@@ -139,7 +139,7 @@
 						</div>
 						<div class="col-lg-2 col-12">
 							<div class="get-quote">
-								<a href="appointment.php" class="btn">Book Appointment</a>
+								<a href="appointment" class="btn">Book Appointment</a>
 							</div>
 						</div>
 					</div>

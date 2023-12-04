@@ -13,7 +13,7 @@
 								<img src="img/blog1.jpg" alt="#">
 							</div>
 							<!-- News Title -->
-							<h1 class="news-title"><a href="news-single.html">More than 80 clinical trials launch to test of the coronavirus .</a></h1>
+							<h1 class="news-title"><a href="news-single">More than 80 clinical trials launch to test of the coronavirus .</a></h1>
 							<!-- Meta -->
 							<div class="meta">
 								<div class="meta-left">
@@ -124,7 +124,7 @@
 						<div class="comments-form">
 							<h2>Leave Comments</h2>
 							<!-- Contact Form -->
-							<form class="form" method="post" action="mail/mail.php">
+							<form class="form" method="post" action="">
 								<div class="row">
 									<div class="col-lg-4 col-md-4 col-12">
 										<div class="form-group">

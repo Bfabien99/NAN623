@@ -389,7 +389,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-prescription"></i>
-					<h4><a href="service-details.html">General Treatment</a></h4>
+					<h4><a href="service-details">General Treatment</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -399,7 +399,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-tooth"></i>
-					<h4><a href="service-details.html">Teeth Whitening</a></h4>
+					<h4><a href="service-details">Teeth Whitening</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -409,7 +409,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-heart-alt"></i>
-					<h4><a href="service-details.html">Heart Surgery</a></h4>
+					<h4><a href="service-details">Heart Surgery</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -419,7 +419,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-listening"></i>
-					<h4><a href="service-details.html">Ear Treatment</a></h4>
+					<h4><a href="service-details">Ear Treatment</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -429,7 +429,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-eye-alt"></i>
-					<h4><a href="service-details.html">Vision Problems</a></h4>
+					<h4><a href="service-details">Vision Problems</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -439,7 +439,7 @@
 				<!-- Start Single Service -->
 				<div class="single-service">
 					<i class="icofont icofont-blood"></i>
-					<h4><a href="service-details.html">Blood Transfusion</a></h4>
+					<h4><a href="service-details">Blood Transfusion</a></h4>
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec luctus dictum eros ut
 						imperdiet. </p>
 				</div>
@@ -576,7 +576,7 @@
 					<div class="news-body">
 						<div class="news-content">
 							<div class="date">22 Aug, 2020</div>
-							<h2><a href="blog-single.html">We have annnocuced our new product.</a></h2>
+							<h2><a href="blog-single">We have annnocuced our new product.</a></h2>
 							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
 								eiusmod tempor incididunt sed do incididunt sed.</p>
 						</div>
@@ -593,7 +593,7 @@
 					<div class="news-body">
 						<div class="news-content">
 							<div class="date">15 Jul, 2020</div>
-							<h2><a href="blog-single.html">Top five way for solving teeth problems.</a></h2>
+							<h2><a href="blog-single">Top five way for solving teeth problems.</a></h2>
 							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
 								eiusmod tempor incididunt sed do incididunt sed.</p>
 						</div>
@@ -610,7 +610,7 @@
 					<div class="news-body">
 						<div class="news-content">
 							<div class="date">05 Jan, 2020</div>
-							<h2><a href="blog-single.html">We provide highly business soliutions.</a></h2>
+							<h2><a href="blog-single">We provide highly business soliutions.</a></h2>
 							<p class="text">Lorem ipsum dolor a sit ameti, consectetur adipisicing elit, sed do
 								eiusmod tempor incididunt sed do incididunt sed.</p>
 						</div>
@@ -771,7 +771,7 @@
 			<div class="col-lg-6  col-12">
 				<!-- Start Newsletter Form -->
 				<div class="subscribe-form ">
-					<form action="mail/mail.php" method="get" target="_blank" class="newsletter-inner">
+					<form action="" method="get" target="_blank" class="newsletter-inner">
 						<input name="EMAIL" placeholder="Your email address" class="common-input"
 							onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
 							required="" type="email">

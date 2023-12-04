@@ -70,7 +70,7 @@
 							<h2>Newsletter</h2>
 							<p>subscribe to our newsletter to get allour news in your inbox.. Lorem ipsum dolor sit
 								amet, consectetur adipisicing elit,</p>
-							<form action="mail/mail.php" method="get" target="_blank" class="newsletter-inner">
+							<form action="" method="get" target="_blank" class="newsletter-inner">
 								<input name="email" placeholder="Email Address" class="common-input"
 									onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your email address'"
 									required="" type="email">
