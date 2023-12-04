@@ -1,4 +1,5 @@
 <?php require('includes/header.php');?>
+<?php require('includes/breadcrumb.php');?>
 <!-- Single News -->
 <section class="news-single section">
 	<div class="container">

@@ -121,7 +121,7 @@
 										</li>
 										<li><a href="doctors.php">Doctors </a></li>
 										<li><a href="services.php">Services </a></li>
-										<li><a href="pages.php">Pages <i class="icofont-rounded-down"></i></a>
+										<li><a href="#">Pages <i class="icofont-rounded-down"></i></a>
 											<ul class="dropdown">
 												<li><a href="404.php">404 Error</a></li>
 											</ul>

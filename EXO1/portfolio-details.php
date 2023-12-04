@@ -1,4 +1,5 @@
 <?php require('includes/header.php');?>
+<?php require('includes/breadcrumb.php');?>
 <!-- Start Portfolio Details Area -->
 <section class="pf-details section">
 	<div class="container">
